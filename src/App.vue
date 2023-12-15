@@ -21,11 +21,11 @@ import Footer from './components/Footer.vue'
     <NewsList />
     <hr>
     <EducationList />
-    <ExperienceList />
+    <!-- <ExperienceList /> -->
     <PublicationList />
     <AwardList />
-    <TalkList />
-    <SoftwareList />
+    <!-- <TalkList /> -->
+    <!-- <SoftwareList /> -->
   </main>
 
   <Footer />
